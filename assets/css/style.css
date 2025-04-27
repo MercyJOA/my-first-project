@@ -1,8 +1,14 @@
-body{
-    background-color:lightgrey;
-    background-image: url(../images/01-02-02_background-img.jpg);
-    background-repeat: no-repeat;
-    background-size: cover;
+body {
+  background-color: lightgrey;
+  background-image: url(../images/01-02-02_background-img.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
-h2{color: orangered;}
+h2 {
+  color: orangered;
+}
+
+P {
+    font-weight: bold;
+}
